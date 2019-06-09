@@ -8,6 +8,8 @@ namespace ConsoleApplication
 {
     public class Entitied
     {
+        public void MethodFirst() { }
+        
         public void MethodSecond() { }
     }
 }
