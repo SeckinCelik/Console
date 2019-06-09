@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication
 {
-    public class Class1
+    public class Entitied
     {
     }
 }
