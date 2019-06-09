@@ -8,5 +8,6 @@ namespace ConsoleApplication
 {
     public class Entitied
     {
+        public int Id { get; set; }
     }
 }
