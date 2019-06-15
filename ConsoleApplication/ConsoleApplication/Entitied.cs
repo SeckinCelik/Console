@@ -8,12 +8,8 @@ namespace ConsoleApplication
 {
     public class Entitied
     {
-<<<<<<< HEAD
-        public int Id { get; set; }
-=======
         public void MethodFirst() { }
-        
+
         public void MethodSecond() { }
->>>>>>> testing
     }
 }
